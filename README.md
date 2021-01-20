@@ -9,6 +9,6 @@ java -jar "unifyProject.jar"
 ```
 ## types of term can use in this program
 
-1. Constants (sush as anas ,anas123 ,p)
+1. Constants (sush as a ,anas123, 1)
 2. Variables. (Such as X , Z3)
 3. Complex terms. These have the form: functor(term_1,...,term_n) 
