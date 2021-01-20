@@ -14,3 +14,4 @@ java -jar "projet.jar"
 3. Complex terms. These have the form: functor(term_1,...,term_n) 
 
 ## Screenshots
+![](https://user-images.githubusercontent.com/61518854/105207912-68441f80-5b48-11eb-9beb-63b69d2c5fec.PNG)
